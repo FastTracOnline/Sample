@@ -1,0 +1,16 @@
+E:\Source\Repos\CodeSample\Football\bin\Debug\net6.0\football.dat
+E:\Source\Repos\CodeSample\Football\bin\Debug\net6.0\Football.exe
+E:\Source\Repos\CodeSample\Football\bin\Debug\net6.0\Football.deps.json
+E:\Source\Repos\CodeSample\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+E:\Source\Repos\CodeSample\Football\bin\Debug\net6.0\Football.dll
+E:\Source\Repos\CodeSample\Football\bin\Debug\net6.0\Football.pdb
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.dll
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\refint\Football.dll
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.pdb
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+E:\Source\Repos\CodeSample\Football\obj\Debug\net6.0\ref\Football.dll

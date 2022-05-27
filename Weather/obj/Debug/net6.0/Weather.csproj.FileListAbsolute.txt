@@ -1,0 +1,16 @@
+E:\Source\Repos\CodeSample\Weather\bin\Debug\net6.0\Weather.exe
+E:\Source\Repos\CodeSample\Weather\bin\Debug\net6.0\Weather.deps.json
+E:\Source\Repos\CodeSample\Weather\bin\Debug\net6.0\Weather.runtimeconfig.json
+E:\Source\Repos\CodeSample\Weather\bin\Debug\net6.0\Weather.dll
+E:\Source\Repos\CodeSample\Weather\bin\Debug\net6.0\Weather.pdb
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.csproj.AssemblyReference.cache
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.AssemblyInfoInputs.cache
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.AssemblyInfo.cs
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.csproj.CoreCompileInputs.cache
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.dll
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\refint\Weather.dll
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.pdb
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\Weather.genruntimeconfig.cache
+E:\Source\Repos\CodeSample\Weather\obj\Debug\net6.0\ref\Weather.dll
+E:\Source\Repos\CodeSample\Weather\bin\Debug\net6.0\weather.dat
